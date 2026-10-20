@@ -5,12 +5,9 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
 
 /* ===== CABECERA ===== */
 header {
-  background: #4e342e;
+  background: #6f4e37;
   color: #cccccc;
-  padding: 1rem 2rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  padding: 1rem;
 }
 header h1 { margin: 0; }
 nav a { color: #f5f0e6; text-decoration: none; margin-left: 1.5rem; }
